@@ -1,0 +1,1951 @@
+.recipes-child {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1530px;
+  height: 99px;
+}
+.vedyant2 {
+  position: absolute;
+  top: 25px;
+  left: 64px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-darkslategray-200);
+}
+.ayurvedic-recipes2 {
+  position: absolute;
+  top: 0;
+  left: 310px;
+}
+.group-child10,
+.group-child11 {
+  position: absolute;
+  top: 29px;
+  left: 811px;
+  width: 265px;
+  height: 1.4px;
+  object-fit: contain;
+}
+.group-child11 {
+  top: 30px;
+  left: 0;
+}
+.ayurvedic-recipes-parent {
+  position: absolute;
+  top: 184px;
+  left: 228px;
+  width: 1076px;
+  height: 61px;
+}
+.home2,
+.your-profile1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 41px;
+  left: 1170px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+}
+.your-profile1 {
+  left: 1279px;
+}
+.group-child12,
+.recipes-inner {
+  position: absolute;
+  width: 226px;
+  height: 55px;
+}
+.group-child12 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gainsboro);
+}
+.recipes-inner {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 492px;
+  left: 64px;
+}
+.all-recipes {
+  position: absolute;
+  top: 305px;
+  left: 75px;
+  font-size: var(--font-size-11xl);
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  width: 226px;
+  height: 55px;
+}
+.healthy-power-bars {
+  position: absolute;
+  top: 19px;
+  left: 21px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 186px;
+}
+.rectangle-parent1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 397px;
+  left: 64px;
+  width: 226px;
+  height: 55px;
+}
+.caffeine-free-kapha-tea,
+.rose-petal-cookies {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.rose-petal-cookies {
+  top: 506px;
+  left: 85px;
+  font-size: var(--font-size-lgi);
+  width: 175px;
+}
+.caffeine-free-kapha-tea {
+  top: 16px;
+  left: 11px;
+  font-size: 17px;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  width: 215px;
+}
+.rectangle-parent2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 587px;
+  left: 64px;
+  width: 226px;
+  height: 55px;
+}
+.mung-bean-pancakes {
+  position: absolute;
+  top: 20px;
+  left: 4px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 205px;
+}
+.rectangle-parent3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 682px;
+  left: 64px;
+  width: 226px;
+  height: 55px;
+}
+.sweet-spice-latte {
+  position: absolute;
+  top: 14px;
+  left: 29px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 178px;
+}
+.rectangle-parent4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 777px;
+  left: 64px;
+  width: 226px;
+  height: 55px;
+}
+.sprouted-mung-bread {
+  position: absolute;
+  top: 15px;
+  left: 12px;
+  font-size: var(--font-size-lgi);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 209px;
+}
+.rectangle-parent5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 397px;
+  left: 357px;
+  width: 226px;
+  height: 55px;
+}
+.sweet-rice {
+  position: absolute;
+  top: 14px;
+  left: 62px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 108px;
+}
+.rectangle-parent6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 492px;
+  left: 357px;
+  width: 226px;
+  height: 55px;
+}
+.detox-spice-mix {
+  position: absolute;
+  top: 14px;
+  left: 39px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 155px;
+}
+.rectangle-parent7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 587px;
+  left: 357px;
+  width: 226px;
+  height: 55px;
+}
+.mung-bean-crpes {
+  position: absolute;
+  top: 15px;
+  left: 25px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 169px;
+}
+.rectangle-parent8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 682px;
+  left: 357px;
+  width: 226px;
+  height: 55px;
+}
+.golden-glow-tonic {
+  position: absolute;
+  top: 14px;
+  left: 39px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 164px;
+}
+.rectangle-parent9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 777px;
+  left: 357px;
+  width: 226px;
+  height: 55px;
+}
+.ayurvedic-rice-pudding {
+  position: absolute;
+  top: 16px;
+  left: 8px;
+  font-size: var(--font-size-lgi);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 215px;
+}
+.rectangle-parent10 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 397px;
+  left: 650px;
+  width: 226px;
+  height: 55px;
+}
+.beans-dhals-and {
+  position: absolute;
+  top: 16px;
+  left: 8px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 215px;
+}
+.rectangle-parent11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 492px;
+  left: 650px;
+  width: 226px;
+  height: 55px;
+}
+.kitchari-for-every {
+  position: absolute;
+  top: 17px;
+  left: 12px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 214px;
+}
+.rectangle-parent12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 587px;
+  left: 650px;
+  width: 226px;
+  height: 55px;
+}
+.vegetable-barley-soup {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 200px;
+}
+.rectangle-parent13 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 682px;
+  left: 650px;
+  width: 226px;
+  height: 55px;
+}
+.amrit-nectar-tonic {
+  position: absolute;
+  top: 14px;
+  left: 35px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 169px;
+}
+.rectangle-parent14 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 777px;
+  left: 650px;
+  width: 226px;
+  height: 55px;
+}
+.rose-petal-sauce {
+  position: absolute;
+  top: 15px;
+  left: 9px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 186px;
+}
+.group-div,
+.recipes-inner1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 226px;
+  height: 55px;
+}
+.recipes-inner1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 397px;
+  left: 1236px;
+}
+.ayurvedic-avocado-toast {
+  position: absolute;
+  top: 16px;
+  left: 9px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 226px;
+}
+.rectangle-parent15 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 492px;
+  left: 1236px;
+  width: 235px;
+  height: 55px;
+}
+.indian-pancakes {
+  position: absolute;
+  top: 16px;
+  left: 32px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 160px;
+}
+.rectangle-parent16 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 587px;
+  left: 1236px;
+  width: 226px;
+  height: 55px;
+}
+.herbed-gravy {
+  position: absolute;
+  top: 15px;
+  left: 45px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 150px;
+}
+.rectangle-parent17 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 682px;
+  left: 1236px;
+  width: 226px;
+  height: 55px;
+}
+.saffron-risotto {
+  position: absolute;
+  top: 17px;
+  left: 52px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 140px;
+}
+.rectangle-parent18,
+.rectangle-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 777px;
+  left: 1236px;
+  width: 226px;
+  height: 55px;
+}
+.rectangle-wrapper {
+  top: 0;
+  left: 0;
+}
+.stewed-apples {
+  position: absolute;
+  top: 16px;
+  left: 40px;
+  font-size: var(--font-size-lgi);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 163px;
+}
+.group-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 397px;
+  left: 943px;
+  width: 226px;
+  height: 55px;
+}
+.coconut-smoothie {
+  position: absolute;
+  top: 16px;
+  left: 29px;
+  font-size: var(--font-size-lgi);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 181px;
+}
+.rectangle-parent19 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 492px;
+  left: 943px;
+  width: 226px;
+  height: 55px;
+}
+.pomegranate-mocktail {
+  position: absolute;
+  top: 17px;
+  left: 17px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 236px;
+}
+.rectangle-parent20 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 587px;
+  left: 943px;
+  width: 253px;
+  height: 55px;
+}
+.ayurvedic-buttermilk {
+  position: absolute;
+  top: 14px;
+  left: 17px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 199px;
+}
+.rectangle-parent21 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 682px;
+  left: 943px;
+  width: 226px;
+  height: 55px;
+}
+.shatavari-ghee {
+  position: absolute;
+  top: 16px;
+  left: 49px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  display: inline-block;
+  width: 144px;
+}
+.rectangle-parent22 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 777px;
+  left: 943px;
+  width: 226px;
+  height: 55px;
+}
+.group-child36 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1588px;
+  height: 352px;
+  object-fit: cover;
+}
+.contact1,
+.privacy-policy2,
+.terms-and-conditions2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 35px;
+  left: 78px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.contact1,
+.privacy-policy2 {
+  top: 84px;
+  left: 79px;
+}
+.contact1 {
+  top: 127px;
+  left: 80px;
+}
+.group-footer {
+  position: absolute;
+  top: 51395px;
+  left: -33px;
+  width: 1588px;
+  height: 352px;
+}
+.contact3 {
+  top: 6637px;
+  left: 80px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.contact3,
+.contact4,
+.ingredients {
+  position: absolute;
+  font-weight: 500;
+}
+.contact4 {
+  top: 8518px;
+  left: 80px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.ingredients {
+  top: 23158px;
+  left: 45px;
+}
+.ingredients1,
+.ingredients2,
+.ingredients3,
+.ingredients4 {
+  position: absolute;
+  top: 25001px;
+  left: 49px;
+  font-weight: 500;
+}
+.ingredients2,
+.ingredients3,
+.ingredients4 {
+  top: 9951px;
+}
+.ingredients3,
+.ingredients4 {
+  top: 16793px;
+  left: 44px;
+}
+.ingredients4 {
+  top: 18529px;
+  left: 32px;
+}
+.ingredients5,
+.ingredients6,
+.ingredients7 {
+  position: absolute;
+  top: 27630px;
+  left: 45px;
+  font-weight: 500;
+}
+.ingredients6,
+.ingredients7 {
+  top: 29526px;
+  left: 55px;
+}
+.ingredients7 {
+  top: 38248px;
+  left: 39px;
+}
+.ingredients10,
+.ingredients8,
+.ingredients9 {
+  position: absolute;
+  top: 49034px;
+  left: 36px;
+  font-weight: 500;
+}
+.ingredients10,
+.ingredients9 {
+  top: 31623px;
+  left: 41px;
+}
+.ingredients10 {
+  top: 35208px;
+  left: 53px;
+}
+.avocado-toast,
+.preparation,
+.savory-toast-toppings,
+.sweet-toast-toppings {
+  position: absolute;
+  top: 20514px;
+  left: 32px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+}
+.preparation,
+.savory-toast-toppings,
+.sweet-toast-toppings {
+  top: 20816px;
+}
+.preparation,
+.sweet-toast-toppings {
+  top: 21299px;
+  left: 42px;
+}
+.preparation {
+  top: 21552px;
+}
+.ingredients11,
+.ingredients12 {
+  position: absolute;
+  top: 8285px;
+  left: 45px;
+  font-weight: 500;
+}
+.ingredients12 {
+  top: 13346px;
+  left: 49px;
+}
+.beans-dhals-and-lentils-wrapper,
+.group-child37 {
+  position: absolute;
+  top: 0;
+  left: 421px;
+  width: 594px;
+  height: 61px;
+}
+.group-child37 {
+  top: 196px;
+  left: 4px;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.tips-for-cooking {
+  position: absolute;
+  top: 773px;
+  left: 4px;
+  font-weight: 500;
+}
+.try-to-use-dhals-and-lentils-w {
+  margin-bottom: 0;
+}
+.hing {
+  color: inherit;
+}
+.store-dry-beans-and-dhals-in-d {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-26xl);
+}
+.store-dry-beans-container {
+  position: absolute;
+  top: 905px;
+  left: 0;
+  font-size: var(--font-size-15xl);
+  font-weight: 300;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1449px;
+}
+.ayurvedic-avocado-toast-two-w-wrapper,
+.group-container {
+  position: absolute;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+}
+.group-container {
+  top: 14519px;
+  left: 41px;
+  width: 1453px;
+  height: 1561px;
+  text-align: left;
+  font-family: var(--font-inter);
+}
+.ayurvedic-avocado-toast-two-w-wrapper {
+  top: 0;
+  left: 290px;
+  width: 898px;
+  height: 61px;
+}
+.group-child38 {
+  position: absolute;
+  top: 181px;
+  left: 1px;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.slices-homemade-or-container {
+  position: absolute;
+  top: 816px;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+}
+.optional-for-kapha {
+  margin: 0;
+}
+.ayurvedic-cilantro-chutney-container {
+  position: absolute;
+  top: 1150px;
+  left: 1px;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+}
+.avocado-toast2 {
+  color: var(--color-darkolivegreen);
+}
+.for-sweet-avocado {
+  color: var(--color-black);
+}
+.avocado-toast-toast-container {
+  position: absolute;
+  top: 1861px;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+}
+.group-section {
+  position: absolute;
+  top: 19791px;
+  left: 41px;
+  width: 1450px;
+  height: 2517px;
+  text-align: left;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.cups-pomegranate-juice-container,
+.sugar-free-organic-jam-tahini-container,
+.tea-bags-of-kapha-container {
+  position: absolute;
+  top: 21399px;
+  left: 41px;
+  font-size: var(--font-size-15xl);
+  font-weight: 300;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1449px;
+}
+.cups-pomegranate-juice-container,
+.tea-bags-of-kapha-container {
+  top: 18634px;
+  left: 42px;
+}
+.cups-pomegranate-juice-container {
+  top: 27735px;
+  left: 55px;
+}
+.ayurvedic-digestion {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ayurvedic-digestion-detox-sp-wrapper {
+  position: absolute;
+  top: 0;
+  left: 247px;
+  width: 944px;
+  height: 61px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+}
+.group-child39 {
+  position: absolute;
+  top: 132px;
+  left: 0;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.mix-these-spices-container,
+.part-turmeric-2-parts-container {
+  position: absolute;
+  top: 840px;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+}
+.mix-these-spices-container {
+  top: 1352px;
+  left: 8px;
+  width: 1430px;
+}
+.group-parent1 {
+  position: absolute;
+  top: 22450px;
+  left: 41px;
+  width: 1449px;
+  height: 1721px;
+  text-align: left;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.kitchari-for-every-dosha-wrapper {
+  position: absolute;
+  top: 0;
+  left: 373px;
+  width: 601px;
+  height: 61px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+}
+.group-child40 {
+  position: absolute;
+  top: 140px;
+  left: 0;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.cup-basmati-rice-container,
+.soak-rice-and-container {
+  position: absolute;
+  top: 848px;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+}
+.soak-rice-and-container {
+  top: 1625px;
+  width: 1430px;
+}
+.group-parent2 {
+  position: absolute;
+  top: 24285px;
+  left: 45px;
+  width: 1449px;
+  height: 2527px;
+  text-align: left;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.rose-petal-sauce-wrapper {
+  position: absolute;
+  top: 0;
+  left: 421px;
+  width: 421px;
+  height: 61px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+}
+.melt-organic-ghee-container,
+.oz-organic-rose-container {
+  position: absolute;
+  top: 905px;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+}
+.melt-organic-ghee-container {
+  top: 1272px;
+  left: 10px;
+  width: 1430px;
+}
+.group-parent3 {
+  position: absolute;
+  top: 9178px;
+  left: 45px;
+  width: 1453px;
+  height: 1477px;
+  text-align: left;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.caffeine-free-kapha-tea-chai-wrapper,
+.group-child42 {
+  position: absolute;
+  top: 0;
+  left: 389px;
+  width: 730px;
+  height: 61px;
+}
+.group-child42 {
+  top: 157px;
+  left: 1px;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.boil-4-cups-container {
+  position: absolute;
+  top: 1318px;
+  left: 0;
+  font-size: var(--font-size-15xl);
+  font-weight: 300;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1430px;
+}
+.group-parent4 {
+  position: absolute;
+  top: 17860px;
+  left: 41px;
+  width: 1450px;
+  height: 1728px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+  font-family: var(--font-inter);
+}
+.pomegranate-hot-toddy-mocktail-wrapper {
+  position: absolute;
+  top: 0;
+  left: 389px;
+  width: 814px;
+  height: 61px;
+}
+.group-parent5,
+.vitality-boosting-indian-panca-wrapper {
+  position: absolute;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+}
+.group-parent5 {
+  top: 26961px;
+  left: 54px;
+  width: 1450px;
+  height: 1564px;
+  text-align: left;
+  font-family: var(--font-inter);
+}
+.vitality-boosting-indian-panca-wrapper {
+  top: 0;
+  left: 330px;
+  width: 827px;
+  height: 61px;
+}
+.group-child44 {
+  position: absolute;
+  top: 192px;
+  left: 1px;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.add-the-soaked-container,
+.cup-yellow-split-container {
+  position: absolute;
+  top: 809px;
+  left: 1px;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+}
+.add-the-soaked-container {
+  top: 1353px;
+  left: 0;
+  width: 1430px;
+}
+.group-parent6 {
+  position: absolute;
+  top: 28822px;
+  left: 64px;
+  width: 1450px;
+  height: 1927px;
+  text-align: left;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.vegetable-barley-soup-wrapper {
+  position: absolute;
+  top: 0;
+  left: 447px;
+  width: 554px;
+  height: 61px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+}
+.group-child45 {
+  position: absolute;
+  top: 202px;
+  left: 10px;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.heat-ghee-in-container,
+.tablespoons-ghee-2-container {
+  position: absolute;
+  top: 819px;
+  left: 10px;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+}
+.heat-ghee-in-container {
+  top: 1459px;
+  left: 0;
+  width: 1430px;
+}
+.group-parent7 {
+  position: absolute;
+  top: 37534px;
+  left: 39px;
+  width: 1459px;
+  height: 1828px;
+  text-align: left;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.saffron-risotto-with-asparagus-wrapper {
+  position: absolute;
+  top: 0;
+  left: 213px;
+  width: 1091px;
+  height: 61px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+}
+.group-child46 {
+  position: absolute;
+  top: 165px;
+  left: 10px;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.melt-ghee-in-container,
+.tablespoons-ghee-1-tablespoon-container {
+  position: absolute;
+  top: 770px;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+}
+.melt-ghee-in-container {
+  top: 1552px;
+  width: 1430px;
+}
+.group-parent8 {
+  position: absolute;
+  top: 48357px;
+  left: 36px;
+  width: 1459px;
+  height: 2331px;
+  text-align: left;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.mung-bean-pancakes1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 882px;
+}
+.mung-bean-pancakes-stuffed-wit-wrapper {
+  position: absolute;
+  top: 0;
+  left: 298px;
+  width: 882px;
+  height: 122px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+}
+.group-child47 {
+  position: absolute;
+  top: 196px;
+  left: 0;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.cup-yellow-split-container1 {
+  position: absolute;
+  top: 843px;
+  left: 28px;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+}
+.blend-until-smooth {
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+}
+.vegetable-filling-1 {
+  font-size: var(--font-size-19xl);
+  color: var(--color-darkolivegreen);
+}
+.yellow-zucchini-2-green-zucchi {
+  margin: 0;
+  font-family: inherit;
+  padding-left: var(--padding-26xl);
+}
+.add-the-soaked-container1 {
+  position: absolute;
+  top: 1238px;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+  width: 1430px;
+}
+.group-parent9 {
+  position: absolute;
+  top: 30911px;
+  left: 41px;
+  width: 1477px;
+  height: 3380px;
+  text-align: left;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.mung-bean-crpes-with-blueberr-wrapper {
+  position: absolute;
+  top: 0;
+  left: 313px;
+  width: 882px;
+  height: 122px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+}
+.group-child48 {
+  position: absolute;
+  top: 228px;
+  left: 0;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.cup-yellow-split-container2 {
+  position: absolute;
+  top: 871px;
+  left: 49px;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+}
+.coconut-caramel-sauce- {
+  margin: 0;
+  font-size: var(--font-size-19xl);
+  color: var(--color-darkolivegreen);
+}
+.add-the-soaked-container2 {
+  position: absolute;
+  top: 1266px;
+  left: 21px;
+  font-weight: 300;
+  display: inline-block;
+  width: 1430px;
+}
+.group-parent10 {
+  position: absolute;
+  top: 34468px;
+  left: 32px;
+  width: 1498px;
+  height: 2793px;
+  text-align: left;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.stewed-apples-wrapper {
+  position: absolute;
+  top: 0;
+  left: 531px;
+  width: 369px;
+  height: 61px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+}
+.group-child49 {
+  position: absolute;
+  top: 155px;
+  left: 0;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.dice-the-apple-container,
+.whole-fresh-sweet-container {
+  position: absolute;
+  top: 863px;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+}
+.dice-the-apple-container {
+  top: 1243px;
+  left: 8px;
+  width: 1430px;
+}
+.group-parent11 {
+  position: absolute;
+  top: 7554px;
+  left: 41px;
+  width: 1449px;
+  height: 1489px;
+  text-align: left;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.sweet-rice-wrapper {
+  position: absolute;
+  top: 0;
+  left: 531px;
+  width: 272px;
+  height: 61px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+}
+.cup-of-basmati-container,
+.wash-and-drain-container {
+  position: absolute;
+  top: 842px;
+  left: 4px;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+}
+.wash-and-drain-container {
+  top: 1394px;
+  left: 23px;
+  width: 1430px;
+}
+.group-parent12 {
+  position: absolute;
+  top: 12615px;
+  left: 45px;
+  width: 1453px;
+  height: 1722px;
+  text-align: left;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.group-child51,
+.sprouted-mung-bread-or-panca-wrapper {
+  position: absolute;
+  top: 0;
+  left: 246px;
+  width: 938px;
+  height: 61px;
+}
+.group-child51 {
+  top: 244px;
+  left: 4px;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.ingredients17 {
+  position: absolute;
+  top: 887px;
+  left: 4px;
+  font-weight: 500;
+}
+.cups-mung-sprouts-container,
+.then-once-the {
+  position: absolute;
+  top: 1019px;
+  left: 0;
+  font-size: var(--font-size-15xl);
+  font-weight: 300;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1449px;
+}
+.then-once-the {
+  top: 1594px;
+  left: 8px;
+  width: 1430px;
+}
+.preparation6 {
+  position: absolute;
+  top: 1399px;
+  left: 8px;
+  font-weight: 500;
+}
+.group-parent13 {
+  position: absolute;
+  top: 3367px;
+  left: 33px;
+  width: 1453px;
+  height: 2127px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+  font-family: var(--font-inter);
+}
+.classic-ayurvedic-rice-pudding-wrapper {
+  position: absolute;
+  top: 0;
+  left: 247px;
+  width: 772px;
+  height: 61px;
+}
+.ingredients18 {
+  position: absolute;
+  top: 708px;
+  left: 4px;
+  font-weight: 500;
+}
+.parts-organic-rice-organic-container,
+.rinse-and-wash-container {
+  position: absolute;
+  top: 840px;
+  left: 0;
+  font-size: var(--font-size-15xl);
+  font-weight: 300;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1449px;
+}
+.rinse-and-wash-container {
+  top: 1381px;
+  left: 4px;
+  width: 1430px;
+}
+.preparation7 {
+  position: absolute;
+  top: 1220px;
+  left: 8px;
+  font-weight: 500;
+}
+.group-parent14 {
+  position: absolute;
+  top: 5696px;
+  left: 41px;
+  width: 1449px;
+  height: 1709px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+  font-family: var(--font-inter);
+}
+.preparation8,
+.preparation9 {
+  position: absolute;
+  top: 23670px;
+  left: 49px;
+  font-weight: 500;
+}
+.preparation9 {
+  top: 25778px;
+  left: 90px;
+}
+.group-parent15,
+.organic-rose-petal-cookies-wrapper {
+  position: absolute;
+  top: 0;
+  left: 300px;
+  width: 673px;
+  height: 61px;
+}
+.group-parent15 {
+  top: 10757px;
+  left: 45px;
+  width: 1449px;
+  height: 1668px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+  font-family: var(--font-inter);
+}
+.preparation11,
+.preparation12,
+.preparation13 {
+  position: absolute;
+  top: 10318px;
+  left: 55px;
+  font-weight: 500;
+}
+.preparation12,
+.preparation13 {
+  top: 17496px;
+  left: 75px;
+}
+.preparation13 {
+  top: 19017px;
+  left: 79px;
+}
+.preparation14,
+.preparation15,
+.preparation16 {
+  position: absolute;
+  top: 28118px;
+  left: 92px;
+  font-weight: 500;
+}
+.preparation15,
+.preparation16 {
+  top: 30036px;
+  left: 102px;
+}
+.preparation16 {
+  top: 38868px;
+  left: 86px;
+}
+.ayurvedic-buttermilk-wrapper {
+  position: absolute;
+  top: 0;
+  left: 447px;
+  width: 531px;
+  height: 61px;
+}
+.ingredients20 {
+  position: absolute;
+  top: 714px;
+  left: 0;
+  font-weight: 500;
+}
+.cup-fresh-cold-container,
+.place-the-freshly-made-container {
+  position: absolute;
+  top: 819px;
+  left: 10px;
+  font-size: var(--font-size-15xl);
+  font-weight: 300;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1449px;
+}
+.place-the-freshly-made-container {
+  top: 1219px;
+  left: 0;
+  width: 1430px;
+}
+.preparation17 {
+  position: absolute;
+  top: 1094px;
+  left: 47px;
+  font-weight: 500;
+}
+.group-parent16 {
+  position: absolute;
+  top: 39602px;
+  left: 53px;
+  width: 1459px;
+  height: 1547px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+  font-family: var(--font-inter);
+}
+.group-parent17,
+.herbed-gravy-wrapper {
+  position: absolute;
+  top: 0;
+  left: 447px;
+  width: 338px;
+  height: 61px;
+}
+.group-parent17 {
+  top: 41344px;
+  left: 39px;
+  width: 1459px;
+  height: 1547px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+  font-family: var(--font-inter);
+}
+.amrit-nectar-tonic-wrapper {
+  position: absolute;
+  top: 0;
+  left: 450px;
+  width: 459px;
+  height: 61px;
+}
+.ingredients22 {
+  position: absolute;
+  top: 677px;
+  left: 0;
+  font-weight: 500;
+}
+.cup-organic-cows-container,
+.gently-warm-milk-container {
+  position: absolute;
+  top: 770px;
+  left: 0;
+  font-size: var(--font-size-15xl);
+  font-weight: 300;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1449px;
+}
+.gently-warm-milk-container {
+  top: 1106px;
+  width: 1430px;
+}
+.preparation19 {
+  position: absolute;
+  top: 987px;
+  left: 10px;
+  font-weight: 500;
+}
+.group-parent18 {
+  position: absolute;
+  top: 45209px;
+  left: 36px;
+  width: 1459px;
+  height: 1434px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+  font-family: var(--font-inter);
+}
+.shatavari-ghee-rose-latte-wrapper {
+  position: absolute;
+  top: 0;
+  left: 425px;
+  width: 688px;
+  height: 61px;
+}
+.pure-indian-shatavari {
+  text-decoration: underline;
+}
+.slowly-warm-the-container {
+  position: absolute;
+  top: 1239px;
+  left: 9px;
+  font-size: var(--font-size-15xl);
+  font-weight: 300;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1430px;
+}
+.preparation20 {
+  position: absolute;
+  top: 1120px;
+  left: 19px;
+  font-weight: 500;
+}
+.group-parent19 {
+  position: absolute;
+  top: 46806px;
+  left: 36px;
+  width: 1459px;
+  height: 1444px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+  font-family: var(--font-inter);
+}
+.preparation21 {
+  position: absolute;
+  top: 49790px;
+  left: 46px;
+  font-weight: 500;
+}
+.ashwagandha-ghee-sweet-spice-wrapper,
+.group-child58 {
+  position: absolute;
+  top: 0;
+  left: 240px;
+  width: 989px;
+  height: 61px;
+}
+.group-child58 {
+  top: 162px;
+  left: 10px;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.ingredients24 {
+  position: absolute;
+  top: 674px;
+  left: 0;
+  font-weight: 500;
+}
+.cashew-milk-container,
+.make-cashew-milkplace-container {
+  position: absolute;
+  top: 779px;
+  left: 10px;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+}
+.make-cashew-milkplace-container {
+  top: 1405px;
+  left: 6px;
+  width: 1430px;
+}
+.preparation22 {
+  position: absolute;
+  top: 1324px;
+  left: 10px;
+  font-weight: 500;
+}
+.group-parent20 {
+  position: absolute;
+  top: 43149px;
+  left: 39px;
+  width: 1459px;
+  height: 1897px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+  font-family: var(--font-inter);
+}
+.preparation23 {
+  position: absolute;
+  top: 31992px;
+  left: 41px;
+  font-weight: 500;
+}
+.preparation24,
+.preparation25,
+.preparation26 {
+  position: absolute;
+  top: 35577px;
+  left: 53px;
+  font-weight: 500;
+}
+.preparation25,
+.preparation26 {
+  top: 8642px;
+  left: 45px;
+}
+.preparation26 {
+  top: 13907px;
+  left: 68px;
+}
+.group-child59,
+.healthy-power-bars-ojas-balls-wrapper {
+  position: absolute;
+  top: 0;
+  left: 388px;
+  width: 770px;
+  height: 61px;
+}
+.group-child59 {
+  top: 129px;
+  left: 0;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.ingredients25 {
+  position: absolute;
+  top: 752px;
+  left: 20px;
+  font-weight: 500;
+}
+.cup-dried-figs,
+.lightly-toast-the {
+  position: absolute;
+  top: 910px;
+  left: 20px;
+  font-size: var(--font-size-15xl);
+  font-weight: 300;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1449px;
+}
+.lightly-toast-the {
+  top: 1330px;
+  left: 11px;
+  width: 1447px;
+}
+.preparation27 {
+  position: absolute;
+  top: 1201px;
+  left: 11px;
+  font-weight: 500;
+}
+.group-parent21,
+.turmeric-coconut-smoothie-wrapper {
+  position: absolute;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+}
+.group-parent21 {
+  top: 1064px;
+  left: 31px;
+  width: 1469px;
+  height: 2027px;
+  text-align: left;
+  font-family: var(--font-inter);
+}
+.turmeric-coconut-smoothie-wrapper {
+  top: 0;
+  left: 402px;
+  width: 688px;
+  height: 61px;
+}
+.group-child60 {
+  position: absolute;
+  top: 135px;
+  left: 10px;
+  width: 1449px;
+  height: 442px;
+  object-fit: cover;
+}
+.cup-almond-milk-container,
+.using-a-high-speed {
+  position: absolute;
+  top: 786px;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+  width: 1449px;
+}
+.using-a-high-speed {
+  top: 1471px;
+  left: 43px;
+  width: 1425px;
+}
+.group-parent22,
+.recipes {
+  text-align: left;
+  font-family: var(--font-inter);
+}
+.group-parent22 {
+  position: absolute;
+  top: 16151px;
+  left: 23px;
+  width: 1468px;
+  height: 1553px;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+}
+.recipes {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 51758px;
+  overflow: hidden;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkolivegreen);
+}

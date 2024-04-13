@@ -1,0 +1,294 @@
+.ellipse-icon {
+  position: absolute;
+  top: 0;
+  left: 12px;
+  border-radius: 50%;
+  width: 173px;
+  height: 155px;
+  object-fit: cover;
+}
+.transformative-home-remedies1 {
+  position: absolute;
+  top: 171px;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  width: 217px;
+}
+.dashboard-inner,
+.ellipse-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 217px;
+  height: 229px;
+}
+.dashboard-inner {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 166px;
+  left: 251px;
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+}
+.group-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  width: 173px;
+  height: 155px;
+  object-fit: cover;
+}
+.meditation1 {
+  position: absolute;
+  top: 195px;
+  left: 23px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+}
+.ellipse-group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 495px;
+  left: 743px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 173px;
+  height: 224px;
+}
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: 23px;
+  border-radius: 50%;
+  width: 173px;
+  height: 155px;
+  object-fit: cover;
+}
+.ayurvedic-recipes1 {
+  position: absolute;
+  top: 179px;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+}
+.ellipse-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 166px;
+  left: 720px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 219px;
+  height: 208px;
+}
+.whats-your-ayurvedic1 {
+  position: absolute;
+  top: 179px;
+  left: 21px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  width: 204px;
+}
+.group-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 166px;
+  left: 1235px;
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+  width: 225px;
+  height: 237px;
+}
+.yoga-and-exercise1 {
+  margin: 0;
+}
+.yoga-and-exercise-container {
+  position: absolute;
+  top: 187px;
+  left: 21px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  width: 214px;
+}
+.ellipse-parent1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 483px;
+  left: 1235px;
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+  width: 235px;
+  height: 303px;
+}
+.ai-powered-recognition-of1 {
+  position: absolute;
+  top: 174px;
+  left: 5px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-darkolivegreen);
+  text-align: left;
+  width: 205px;
+}
+.ellipse-parent2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 495px;
+  left: 251px;
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+  width: 210px;
+  height: 261px;
+}
+.dashboard-child {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 85px;
+  height: 1542px;
+}
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1498px;
+  height: 376.9px;
+  object-fit: cover;
+}
+.contact-us1,
+.privacy-policy1,
+.terms-and-conditions1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 42.8px;
+  left: 22px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 258px;
+  height: 32.1px;
+}
+.contact-us1,
+.privacy-policy1 {
+  top: 116.7px;
+  width: 164px;
+}
+.contact-us1 {
+  top: 188.4px;
+  width: 133px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 1631.1px;
+  left: 0;
+  width: 1498px;
+  height: 376.9px;
+}
+.dashboard-item,
+.group-child9 {
+  position: absolute;
+  top: 866px;
+  left: 85px;
+  background-color: var(--color-gainsboro);
+  width: 1445px;
+  height: 720px;
+}
+.group-child9 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1530px;
+  height: 99px;
+}
+.vedyant1 {
+  position: absolute;
+  top: 34px;
+  left: 90.3px;
+  display: inline-block;
+  width: 174.3px;
+}
+.your-profile {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 44px;
+  left: 1329.2px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  width: 144.5px;
+}
+.home1,
+.rectangle-container,
+.your-profile {
+  position: absolute;
+  text-align: left;
+  font-family: var(--font-inter);
+}
+.home1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 44px;
+  left: 1234.6px;
+  font-size: var(--font-size-5xl);
+  font-weight: 700;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  width: 73.3px;
+}
+.rectangle-container {
+  margin: 0;
+  top: 0;
+  left: 0;
+  width: 1530px;
+  height: 99px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-darkslategray-200);
+}
+.dashboard {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2008px;
+  overflow: hidden;
+}
