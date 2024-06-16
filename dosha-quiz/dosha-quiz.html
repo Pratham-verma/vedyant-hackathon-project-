@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>
+    Dosha Quiz Page
+  </title>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="dosha.js"></script>
+    <link href="dosha-style.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+        <div class="row"><br><br>
+            <div class="col-sm-8 col-sm-offset-2">
+                <div class="loader">
+                    <div id="quiz">
+                  
+                        <div class="question">
+                            <h3><span class="label label-warning" id="qid">1</span>
+                            <span id="question"> How is your body structure?</span>
+                            </h3>
+                        </div>
+                        <ul>
+                          <li>
+                            <input type="radio" id="f-option" name="selector" value="1">
+                            <label for="f-option" class="element-animation">Thin & lean</label>
+                            <div class="check"></div>
+                          </li>
+                          
+                          <li>
+                            <input type="radio" id="s-option" name="selector" value="2">
+                            <label for="s-option" class="element-animation">Medium & proportionate</label>
+                            <div class="check"><div class="inside"></div></div>
+                          </li>
+                          
+                          <li>
+                            <input type="radio" id="t-option" name="selector" value="3">
+                            <label for="t-option" class="element-animation">Large & well-built</label>
+                            <div class="check"><div class="inside"></div></div>
+                          </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="text-muted">
+                    <span id="answer"></span>
+                </div>
+                
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-8 col-sm-offset-2">
+                <div id="result-of-question" class="pulse animated" style="display: none;">
+                    <span id="totalCorrect" class="pull-right"></span>
+                    <table class="table table-hover table-responsive" >
+                        <thead>
+                            <tr>
+                            </tr>
+                        </thead>
+                        <tbody id="quizResult"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
